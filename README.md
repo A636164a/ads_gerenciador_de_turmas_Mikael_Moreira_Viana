@@ -7,9 +7,9 @@ Este projeto é um gerenciador simples de turmas feito com **HTML, CSS e JavaScr
 Permite organizar e visualizar informações de turmas de forma prática.
 
 ## Como executar
-1. Baixe ou clone este repositório:
+1. Repositório:
    ```bash
-   git clone https://github.com/A636164a/ads_gerenciador_de_turmas_Mikael_Moreira_Viana.git
+   https://github.com/A636164a/ads_gerenciador_de_turmas_Mikael_Moreira_Viana.git
 
 ## Autor
 
